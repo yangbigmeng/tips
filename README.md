@@ -6,3 +6,7 @@
 2. idea-tips
 
 3. linux-tips
+
+4. curl-tips
+
+5. sql [sql相关]
