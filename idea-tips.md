@@ -8,3 +8,7 @@
    (1) 右侧gradle图标 -> 选择项目中的某个module -> Tasks -> help -> dependencies -> 双击
    
    (2) 在控制台可以看到jar之间的依赖关系
+
+3. 跳到文件具体的行
+   
+   (1) ctrl + g: 输入行号
