@@ -48,3 +48,4 @@ scan 'table_name', {COLUMNS => ['f1:valid'], LIMIT => 3, FILTER => "ValueFilter(
 scan 'table_name', {COLUMNS => ['f1:valid'], LIMIT => 3, FILTER => "PrefixFilter('1') AND ValueFilter(=, 'binary:1')"}
 scan 'table_name', {COLUMNS => ['f1:valid'], LIMIT => 3, FILTER => "ColumnPrefixFilter('valid') AND ValueFilter(=, 'binary:1')"}  
 ```
+> 过滤器参考： http://openinx.github.io/2019/07/02/blog-for-filter-list/
