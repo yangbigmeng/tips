@@ -12,3 +12,5 @@
 5. sql [sql相关]
 
 6. java [java开发相关]
+
+7. python [python开发相关]
